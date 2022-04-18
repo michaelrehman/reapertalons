@@ -1,0 +1,10 @@
+﻿{
+	"name": "Reaper Talons",
+	"version_number": "0.0.1",
+	"website_url": "",
+	"description": "Adds an item that buffs the player the lower HP they are.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.1900",
+		"tristanmcpherson-R2API-4.3.5"
+	]
+}
